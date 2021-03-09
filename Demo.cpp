@@ -12,7 +12,7 @@
 using namespace std;
 
 int main() {
-	cout << ariel::snowman(11114411) << endl;   /* Should print:
+	cout << ariel::snowman(31323232) << endl;   /* Should print:
 _===_
 (.,.)
 ( : )
